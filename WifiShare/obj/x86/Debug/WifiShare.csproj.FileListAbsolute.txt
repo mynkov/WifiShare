@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2010\Projects\WifiShare\WifiShare\obj\x86\Debug\WifiShare.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\WifiShare\WifiShare\obj\x86\Debug\WifiShare.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\WifiShare\WifiShare\bin\Debug\WifiShare.exe
+c:\users\admin\documents\visual studio 2010\Projects\WifiShare\WifiShare\bin\Debug\WifiShare.pdb
+c:\users\admin\documents\visual studio 2010\Projects\WifiShare\WifiShare\obj\x86\Debug\WifiShare.exe
+c:\users\admin\documents\visual studio 2010\Projects\WifiShare\WifiShare\obj\x86\Debug\WifiShare.pdb
